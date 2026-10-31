@@ -1,0 +1,1 @@
+A structured learning portfolio documenting my journey in System Design , featuring daily technical notes , hand-on coding exercises, core computer science design implemtations as part of my preparation for Software Engineering interviews at Microsoft.
